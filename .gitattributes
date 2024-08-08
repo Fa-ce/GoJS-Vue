@@ -1,9 +1,9 @@
 *.md linguist-language=vue
 *.yml linguist-language=vue
-*.html linguist-language=vue
-*.js linguist-language=vue
+*.html linguist-language=html
+*.js linguist-language=js
 *.xml linguist-language=vue
-*.css linguist-language=vue
+*.css linguist-language=css
 *.sql linguist-language=vue
 *.uml linguist-language=vue
 *.cmd linguist-language=vue
