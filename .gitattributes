@@ -7,3 +7,4 @@
 *.sql linguist-language=vue
 *.uml linguist-language=vue
 *.cmd linguist-language=vue
+*.vue linguist-language=vue
